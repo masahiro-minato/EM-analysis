@@ -6,5 +6,6 @@
 *.rds
 *.tsv
 *.pdf
+*.png
 *.csv
 *.xlsx
